@@ -1,0 +1,6 @@
+{
+  "name": "FitnessRPG",
+  "description": "Sua jornada fitness gamificada! Treine em casa, suba de nível, complete missões e desbloqueie conquistas no estilo RPG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
